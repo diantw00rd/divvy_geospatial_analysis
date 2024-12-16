@@ -1,0 +1,23 @@
+name: divvy-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9      
+  - geopandas
+  - geopy
+  - plotly
+  - libpysal
+  - esda
+  - splot
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - plotnine
+  - seaborn
+  - folium
+  - scikit-learn
+  - shapely
+  - pip
+  - pip:
+    - ipython
