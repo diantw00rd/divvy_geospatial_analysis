@@ -16,6 +16,7 @@ The purpose of this project is to explore and compare the spatial distribution o
 # **DATA**
 
 This project uses DIVVY Chicago Bike Share trips data (https://divvybikes.com/system-data). It includes precise timestamps for when trips began and ended. Dataset provides information on the geographic locations of trip origins and destinations, recorded as latitude and longitude coordinates, as well as station-specific metadata such as station IDs and names.  Demographic data is also included, specifying user type (subscriber or casual customer) and gender. Weather data, including temperature and information on weather events like rain or snow, is linked to trips. Station dock capacities at both the starting and ending points of trips are also provided.
+You can download the data from Kaggle: https://www.kaggle.com/datasets/yingwurenjian/chicago-divvy-bicycle-sharing-data?select=data.csv
 
 
 # **DATA PREPROCESSING:**
